@@ -1,0 +1,51 @@
+{
+    "name": "Apache Apollo",
+    "description": "<p>ActiveMQ Apollo is a faster, more reliable, easier to maintain messaging broker built from the foundations of the original ActiveMQ. It accomplishes this using a radically different threading and message dispatching architecture. Like ActiveMQ, Apollo is a multi-protocol broker and supports STOMP, AMQP, MQTT, Openwire, SSL, and WebSockets.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/apache-apollo-logo.png",
+    "tags": [
+        "apache",
+        "api tools",
+        "have api",
+        "messages",
+        "profile"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/apache-apollo\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Apache Apollo",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/apache-apollo-logo.png",
+            "humanURL": "http:\/\/activemq.apache.org\/apollo\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apache-apollo-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/activemq.apache.org\/apollo\/blog\/index.html"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/activemq.apache.org\/apollo\/blog\/index.rss"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/apache\/activemq-apollo"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/activemq.apache.org\/apollo\/"
+        }
+    ]
+}
